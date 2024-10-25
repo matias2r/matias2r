@@ -1,6 +1,6 @@
 # Hola 👋, soy Matias Espinoza M.
 
-Soy un desarrollador full stack junior con un enfoque en el desarrollo backend y una pasión por construir soluciones eficientes y escalables. Tengo un título en programación computacional y más de 5 años de experiencia en diseño gráfico y soporte TI, lo que me ha dado una base sólida para enfrentar nuevos desafíos en el desarrollo web. Actualmente, estoy desarrollando mis habilidades como programador full stack, trabajando tanto en front-end como en back-end para proyectos web.
+Soy un desarrollador web junior con un enfoque en el desarrollo frontend y una pasión por construir soluciones eficientes y escalables. Tengo un título en programación computacional y más de 5 años de experiencia en diseño gráfico y soporte TI, lo que me ha dado una base sólida para enfrentar nuevos desafíos en el desarrollo web. Actualmente, estoy desarrollando mis habilidades como programador para en un futuro convertirme en un desarrollador full stack.
 
 ## 📫 Contacto
 
